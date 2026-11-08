@@ -1,0 +1,87 @@
+{
+  "note": "rozvrzeni menu GAME SELECTION ($80D1); pozice z $8115 (y v pixelech), atributy z $810E, sloupec 7 z LD L,$38. Pozadi a blikani vybranych radku odmereno na sources/media/screens/menu.scr",
+  "tables": {
+    "attributes": "$810E",
+    "positions": "$8115",
+    "strings": "$811C"
+  },
+  "column": 7,
+  "background": {
+    "attr": "$43",
+    "edgeAttr": "$00",
+    "edgeColumns": [
+      0,
+      31
+    ]
+  },
+  "lines": [
+    {
+      "address": "$811C",
+      "text": "GAME SELECTION",
+      "y": 32,
+      "row": 4,
+      "col": 7,
+      "attr": "$47"
+    },
+    {
+      "address": "$812A",
+      "text": "1  1 PLAYER GAME",
+      "y": 56,
+      "row": 7,
+      "col": 7,
+      "attr": "$47"
+    },
+    {
+      "address": "$813A",
+      "text": "2  2 PLAYER GAME",
+      "y": 72,
+      "row": 9,
+      "col": 7,
+      "attr": "$47"
+    },
+    {
+      "address": "$814A",
+      "text": "3  KEYBOARD",
+      "y": 88,
+      "row": 11,
+      "col": 7,
+      "attr": "$47"
+    },
+    {
+      "address": "$8155",
+      "text": "4  KEMPSTON JOYSTICK",
+      "y": 104,
+      "row": 13,
+      "col": 7,
+      "attr": "$47"
+    },
+    {
+      "address": "$8169",
+      "text": "5  CURSOR   JOYSTICK",
+      "y": 120,
+      "row": 15,
+      "col": 7,
+      "attr": "$47"
+    },
+    {
+      "address": "$817D",
+      "text": "6  START GAME",
+      "y": 152,
+      "row": 19,
+      "col": 7,
+      "attr": "$47"
+    }
+  ],
+  "copyright": {
+    "address": "$818A",
+    "row": 23,
+    "col": 0,
+    "attr": "$45",
+    "text": "%1983 A.C.G. ALL RIGHTS RESERVED"
+  },
+  "selectedFlash": true,
+  "selectedLines": {
+    "players": 1,
+    "control": 3
+  }
+}

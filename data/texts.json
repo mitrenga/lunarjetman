@@ -1,0 +1,188 @@
+{
+  "note": "texty originalu (tools/dumptext.py); konec = bit 7 na poslednim znaku. U retezcu s inlineAttr je PRVNI bajt atribut ($8A11), u menu bloku $811C-$8189 ne (atributy z tabulky $810E)",
+  "count": 27,
+  "strings": [
+    {
+      "address": "$811C",
+      "raw": "GAME SELECTION",
+      "inlineAttr": false,
+      "text": "GAME SELECTION"
+    },
+    {
+      "address": "$812A",
+      "raw": "1  1 PLAYER GAME",
+      "inlineAttr": false,
+      "text": "1  1 PLAYER GAME"
+    },
+    {
+      "address": "$813A",
+      "raw": "2  2 PLAYER GAME",
+      "inlineAttr": false,
+      "text": "2  2 PLAYER GAME"
+    },
+    {
+      "address": "$814A",
+      "raw": "3  KEYBOARD",
+      "inlineAttr": false,
+      "text": "3  KEYBOARD"
+    },
+    {
+      "address": "$8155",
+      "raw": "4  KEMPSTON JOYSTICK",
+      "inlineAttr": false,
+      "text": "4  KEMPSTON JOYSTICK"
+    },
+    {
+      "address": "$8169",
+      "raw": "5  CURSOR   JOYSTICK",
+      "inlineAttr": false,
+      "text": "5  CURSOR   JOYSTICK"
+    },
+    {
+      "address": "$817D",
+      "raw": "6  START GAME",
+      "inlineAttr": false,
+      "text": "6  START GAME"
+    },
+    {
+      "address": "$A94B",
+      "raw": "GGAME OVER PLAYER 0",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "GAME OVER PLAYER 0"
+    },
+    {
+      "address": "$A95E",
+      "raw": "EYOUR LUNAR ROVER HAS BEEN ",
+      "inlineAttr": true,
+      "attr": "$45",
+      "text": "YOUR LUNAR ROVER HAS BEEN "
+    },
+    {
+      "address": "$A979",
+      "raw": "EDESTROYED. ",
+      "inlineAttr": true,
+      "attr": "$45",
+      "text": "DESTROYED. "
+    },
+    {
+      "address": "$A985",
+      "raw": "EALL IS LOST. ",
+      "inlineAttr": true,
+      "attr": "$45",
+      "text": "ALL IS LOST. "
+    },
+    {
+      "address": "$B3D0",
+      "raw": "ATELEPORTING",
+      "inlineAttr": true,
+      "attr": "$41",
+      "text": "TELEPORTING"
+    },
+    {
+      "address": "$B5DC",
+      "raw": "VWARNING",
+      "inlineAttr": true,
+      "attr": "$56",
+      "text": "WARNING"
+    },
+    {
+      "address": "$B5E4",
+      "raw": "FA MISSILE HAS BEEN LAUNCHED ",
+      "inlineAttr": true,
+      "attr": "$46",
+      "text": "A MISSILE HAS BEEN LAUNCHED "
+    },
+    {
+      "address": "$B601",
+      "raw": "FFROM THE ENEMY BASE. ",
+      "inlineAttr": true,
+      "attr": "$46",
+      "text": "FROM THE ENEMY BASE. "
+    },
+    {
+      "address": "$B617",
+      "raw": "DYOUR LUNAR ROVER IS IN DANGER ",
+      "inlineAttr": true,
+      "attr": "$44",
+      "text": "YOUR LUNAR ROVER IS IN DANGER "
+    },
+    {
+      "address": "$B636",
+      "raw": "DOF BEING DESTROYED ",
+      "inlineAttr": true,
+      "attr": "$44",
+      "text": "OF BEING DESTROYED "
+    },
+    {
+      "address": "$B64A",
+      "raw": "GIT IS ESTIMATED THAT    LASER ",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "IT IS ESTIMATED THAT    LASER "
+    },
+    {
+      "address": "$B669",
+      "raw": "GHITS WILL BE REQUIRED TO ",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "HITS WILL BE REQUIRED TO "
+    },
+    {
+      "address": "$B683",
+      "raw": "GDESTROY THE MISSILE. ",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "DESTROY THE MISSILE. "
+    },
+    {
+      "address": "$F277",
+      "raw": "FTOP SCORE",
+      "inlineAttr": true,
+      "attr": "$46",
+      "text": "TOP SCORE"
+    },
+    {
+      "address": "$F287",
+      "raw": "FHIGHEST SCORE",
+      "inlineAttr": true,
+      "attr": "$46",
+      "text": "HIGHEST SCORE"
+    },
+    {
+      "address": "$F4AA",
+      "raw": "ETHE ULTIMATE ",
+      "inlineAttr": true,
+      "attr": "$45",
+      "text": "THE ULTIMATE "
+    },
+    {
+      "address": "$F4B8",
+      "raw": "EHALL OF FAME ",
+      "inlineAttr": true,
+      "attr": "$45",
+      "text": "HALL OF FAME "
+    },
+    {
+      "address": "$F4FB",
+      "raw": "GCONGRATULATIONS PLAYER ",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "CONGRATULATIONS PLAYER "
+    },
+    {
+      "address": "$F513",
+      "raw": "GTODAYS ",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "TODAYS "
+    },
+    {
+      "address": "$F51B",
+      "raw": "GJETMAN WILL REMEMBER YOU ",
+      "inlineAttr": true,
+      "attr": "$47",
+      "text": "JETMAN WILL REMEMBER YOU "
+    }
+  ]
+}

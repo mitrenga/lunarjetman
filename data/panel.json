@@ -1,0 +1,98 @@
+{
+ "rows": [
+  0,
+  1
+ ],
+ "background": [
+  {
+   "row": 0,
+   "attr": 67,
+   "edgeColumns": [
+    0,
+    31
+   ],
+   "edgeAttr": 0
+  },
+  {
+   "row": 1,
+   "attr": 70,
+   "edgeColumns": [],
+   "edgeAttr": 0
+  }
+ ],
+ "labels": [
+  {
+   "row": 0,
+   "col": 3,
+   "text": "1UP",
+   "attr": 71
+  },
+  {
+   "row": 0,
+   "col": 15,
+   "text": "HI",
+   "attr": 69
+  },
+  {
+   "row": 0,
+   "col": 27,
+   "text": "2UP",
+   "attr": 71
+  }
+ ],
+ "fields": [
+  {
+   "name": "score",
+   "row": 1,
+   "col": 1,
+   "digits": 6,
+   "attr": 70
+  },
+  {
+   "name": "leftCount",
+   "row": 1,
+   "col": 9,
+   "digits": 3,
+   "attr": 68
+  },
+  {
+   "name": "hiScore",
+   "row": 1,
+   "col": 13,
+   "digits": 6,
+   "attr": 70
+  },
+  {
+   "name": "rightCount",
+   "row": 1,
+   "col": 20,
+   "digits": 3,
+   "attr": 68
+  },
+  {
+   "name": "score2",
+   "row": 1,
+   "col": 25,
+   "digits": 6,
+   "attr": 70
+  }
+ ],
+ "counter": {
+  "row": 0,
+  "col": 8,
+  "attr": 67,
+  "icon": "$D151"
+ },
+ "note": "rozvrzeni panelu se skore (tools/dumppanel.py). Radky 0 a 1 jsou tisk vlastni znakovou sadou $D347; pole a atributy jsou odmerene na snimcich z originalu a nastroj si je proti nim kontroluje. Radky 2-4 (pas TRUCK/FUEL/TIME/BASE) tu nejsou",
+ "font": "$D347",
+ "iconBytes": [
+  24,
+  36,
+  60,
+  126,
+  90,
+  60,
+  60,
+  102
+ ]
+}
